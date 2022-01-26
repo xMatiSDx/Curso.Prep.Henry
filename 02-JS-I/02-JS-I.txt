@@ -1,0 +1,21 @@
+*VARIABLES:
+VAR: Palabra clave que se utiliza para crear una variable que almacena valor para usar despues. 
+LET: Similar a VAR pero difiere en su ámbito de ejecucion.
+CONST: Abreviatura de Constante, variable que no se podra redefinir.
+
+*STRINGS:
+Una cadena o string es un bloque de texto. Para que un texto sea reconocido como String debe 
+escribirse entre comillas simples ' ' o dobles " ". 
+
+*NUMBERS:
+Numeros, deben escribirse sin comillas o seran interpretados como strings.
+
+*BOOLEANS:
+Provienen de la lógica de bool. En JS se utiliza para significar Verdadero(1) o Falso(0).
+
+*FUCIONES:
+Objeto al cual se le puede pasar valores por argumentos y utilizar estos para devolver un valor 
+al finalizar la ejecucion.
+
+*DECLARACIONES IF:
+Ejecuta una sentencia si el codigo suministrado es TRUE, de lo contrario sigue avanzando
